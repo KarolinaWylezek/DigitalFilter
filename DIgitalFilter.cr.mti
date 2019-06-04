@@ -1,11 +1,14 @@
-D:/Dokumenty/DSE/DigitalFilter/MemoryA.vhd {1 {vcom -work work -2002 -explicit -stats=none {D:\Dokumenty\DSE\DigitalFilter\MemoryA.vhd}
+D:/Dokumenty/DSE/DigitalFilter/Datapath.vhd {2 {vcom -work work -2002 -explicit -stats=none {D:\Dokumenty\DSE\DigitalFilter\Datapath.vhd}
 Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
 -- Loading package STANDARD
 -- Loading package TEXTIO
 -- Loading package std_logic_1164
 -- Loading package NUMERIC_STD
--- Compiling entity MemoryA
--- Compiling architecture behaviour of MemoryA
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity Datapath
+-- Compiling architecture behaviour of Datapath
+** Warning: D:\Dokumenty\DSE\DigitalFilter\Datapath.vhd(37): (vcom-1272) Length of expected is 8; length of actual is 16.
 
 } {} {}} D:/Dokumenty/DSE/DigitalFilter/MemoryB.vhd {1 {vcom -work work -2002 -explicit -stats=none {D:\Dokumenty\DSE\DigitalFilter\MemoryB.vhd}
 Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
@@ -16,5 +19,16 @@ Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  
 -- Compiling entity MemoryB
 -- Compiling architecture behaviour of MemoryA
 -- Loading entity MemoryA
+
+} {} {}} D:/Dokumenty/DSE/DigitalFilter/FinalCode.vhd {1 {vcom -work work -2002 -explicit -stats=none {D:\Dokumenty\DSE\DigitalFilter\FinalCOde.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity part1
+-- Compiling architecture behavior of part1
 
 } {} {}}

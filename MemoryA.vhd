@@ -9,6 +9,9 @@ PORT(	DataIn : in std_logic_vector(7 downto 0);
 	clk :  in std_logic;
 	wr : in std_logic;
 	data_out : out std_logic_vector(7 downto 0);
+	DATA_OUT1 : out std_logic_vector(7 downto 0);
+	data_out2 : out std_logic_vector(7 downto 0);
+	data_out3 : out std_logic_vector(7 downto 0);
 	RD : out std_logic
 	);
 END MemoryA;
@@ -42,6 +45,9 @@ process(clk, CS, wr )
 	begin
 	if((rising_edge(clk))and(wr='1')and(CS='1')) then
 		data_out<=box(addrs);
+		data_out1<=box(addrs-1);
+		data_out2<=box(addrs-2);
+		data_out3<=box(addrs-3);
 	end if;
 end process;
 
