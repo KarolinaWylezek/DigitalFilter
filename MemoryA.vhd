@@ -25,7 +25,7 @@ signal a : int :=0;
 signal addrs : int;
 
 
-type storage is array (1023 downto 0) of std_logic_vector(7 downto 0);
+type storage is array (1024 downto 0) of std_logic_vector(7 downto 0);
 signal box : storage;
 --signal a : storage;
 
@@ -37,11 +37,12 @@ process(clk, wr, CS)
 	if ((rising_edge(clk))and(wr='0')and(CS='1')) then 
 		box(a)<=DataIn;
 		a<=a+1;
+		if(a>1023) then RD = '1'; --this should couse the change of wr in main code from one to zero, to let the program start reading from A
 	end if;
 end process;
 
 
-process(clk, CS, wr )
+process(clk, CS, RD )
 	begin
 	if((rising_edge(clk))and(wr='1')and(CS='1')) then
 		data_out<=box(addrs);
