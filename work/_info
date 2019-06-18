@@ -9,7 +9,7 @@ z2
 cModel Technology
 dC:/intelFPGA_lite/18.1
 Eadder
-Z0 w1560808690
+Z0 w1560884362
 Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
 Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
 Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
@@ -18,13 +18,13 @@ Z5 8D:\Dokumenty\DSE\DigitalFilter\adder.vhd
 Z6 FD:\Dokumenty\DSE\DigitalFilter\adder.vhd
 l0
 L5
-V5UC;lB?b492Ej_7JD3fQg1
-!s100 jC^RGPB<flbG=VT7N`b<60
+VCM`88614LS[VdmRkeT8WN0
+!s100 E6=cC5WF^>=KgBXY9cD@n1
 Z7 OV;C;10.5b;63
 32
-Z8 !s110 1560808926
+Z8 !s110 1560887146
 !i10b 1
-Z9 !s108 1560808926.000000
+Z9 !s108 1560887146.000000
 Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Dokumenty\DSE\DigitalFilter\adder.vhd|
 Z11 !s107 D:\Dokumenty\DSE\DigitalFilter\adder.vhd|
 !i113 1
@@ -34,38 +34,38 @@ Abehaviour
 R1
 R2
 R3
-DEx4 work 5 adder 0 22 ?V7a8c5b7M3ZK5BkP1_IS3
-l14
+DEx4 work 5 adder 0 22 CM`88614LS[VdmRkeT8WN0
+l12
 L11
-VJmIaed7OcZe<1T8WO?eZ=2
-!s100 cCf`d4_=oPV5[HaN3?>fV1
+V6L:30glKRhnD7lJ3H@OQb1
+!s100 H4gG9Fi4Y1`11[_Bck=9@2
 R7
 32
-Z14 !s110 1560801860
+R8
 !i10b 1
-Z15 !s108 1560801860.000000
+R9
 R10
 R11
 !i113 1
 R12
 R13
 Ecounter
-Z16 w1560779835
+Z14 w1560779835
 R1
 R2
 R3
 R4
-Z17 8D:\Dokumenty\DSE\DigitalFilter\counter.vhd
-Z18 FD:\Dokumenty\DSE\DigitalFilter\counter.vhd
+Z15 8D:\Dokumenty\DSE\DigitalFilter\counter.vhd
+Z16 FD:\Dokumenty\DSE\DigitalFilter\counter.vhd
 l0
 L5
 VJf7JC;0UfRUdTLI5kDM;m2
 !s100 dbhVXOM:<AjYB?UQ2g>QU0
 R7
 32
-R8
+Z17 !s110 1560887147
 !i10b 1
-R9
+Z18 !s108 1560887147.000000
 Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Dokumenty\DSE\DigitalFilter\counter.vhd|
 Z20 !s107 D:\Dokumenty\DSE\DigitalFilter\counter.vhd|
 !i113 1
@@ -82,22 +82,22 @@ VDIj6NW32OPe:0SOUDzek>0
 !s100 H6_9LRn2Ng>ejY5;k<=iH1
 R7
 32
-R8
+R17
 !i10b 1
-R9
+R18
 R19
 R20
 !i113 1
 R12
 R13
 Ecu
-w1560808846
+Z21 w1560886774
 R1
 R2
 R3
 R4
-Z21 8D:\Dokumenty\DSE\DigitalFilter\CU.vhd
-Z22 FD:\Dokumenty\DSE\DigitalFilter\CU.vhd
+Z22 8D:\Dokumenty\DSE\DigitalFilter\CU.vhd
+Z23 FD:\Dokumenty\DSE\DigitalFilter\CU.vhd
 l0
 L5
 V51DeVJ75nlB6W47_e<e<Z2
@@ -107,8 +107,8 @@ R7
 R8
 !i10b 1
 R9
-Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Dokumenty\DSE\DigitalFilter\CU.vhd|
-Z24 !s107 D:\Dokumenty\DSE\DigitalFilter\CU.vhd|
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Dokumenty\DSE\DigitalFilter\CU.vhd|
+Z25 !s107 D:\Dokumenty\DSE\DigitalFilter\CU.vhd|
 !i113 1
 R12
 R13
@@ -119,46 +119,45 @@ R3
 DEx4 work 2 cu 0 22 51DeVJ75nlB6W47_e<e<Z2
 l74
 L16
-V3T1bOUdGUVKjgQD6e;kn^2
-!s100 LMzCA4i:Z^[az8dnS>jdT1
+V<=Aeb5`Mk9GlgJ1Eg2_<C1
+!s100 hoZQ:LUg?91zVHc?dXFmD2
 R7
 32
-!s110 1560806032
+R8
 !i10b 1
-!s108 1560806032.000000
-R23
+R9
 R24
+R25
 !i113 1
 R12
 R13
-w1560806029
 Edatapath
 w1559667707
-Z25 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
-Z26 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z26 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z27 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
 R1
 R2
 R3
 R4
-Z27 8D:\Dokumenty\DSE\DigitalFilter\Datapath.vhd
-Z28 FD:\Dokumenty\DSE\DigitalFilter\Datapath.vhd
+Z28 8D:\Dokumenty\DSE\DigitalFilter\Datapath.vhd
+Z29 FD:\Dokumenty\DSE\DigitalFilter\Datapath.vhd
 l0
 L6
 V2067fldHfhVNI@JYW=0`h1
 !s100 Ue4f=JAee]<WUn[emLPh03
 R7
 32
-Z29 !s110 1560201122
+Z30 !s110 1560201122
 !i10b 1
-Z30 !s108 1560201122.000000
-Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Dokumenty\DSE\DigitalFilter\Datapath.vhd|
-Z32 !s107 D:\Dokumenty\DSE\DigitalFilter\Datapath.vhd|
+Z31 !s108 1560201122.000000
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Dokumenty\DSE\DigitalFilter\Datapath.vhd|
+Z33 !s107 D:\Dokumenty\DSE\DigitalFilter\Datapath.vhd|
 !i113 1
 R12
 R13
 Abehaviour
-R25
 R26
+R27
 R1
 R2
 R3
@@ -172,31 +171,31 @@ R7
 !s110 1559661430
 !i10b 1
 !s108 1559661430.000000
-R31
 R32
+R33
 !i113 1
 R12
 R13
 w1559651453
 Ememorya
-Z33 w1560201150
+Z34 w1560201150
 R1
 R2
 R3
 R4
-Z34 8D:\Dokumenty\DSE\DigitalFilter\MemoryA.vhd
-Z35 FD:\Dokumenty\DSE\DigitalFilter\MemoryA.vhd
+Z35 8D:\Dokumenty\DSE\DigitalFilter\MemoryA.vhd
+Z36 FD:\Dokumenty\DSE\DigitalFilter\MemoryA.vhd
 l0
 L5
 VoWj[K^W5HUaB[GgiHI[m@1
 !s100 _zPRfOD?elWBe9DC1e4DN3
 R7
 32
-Z36 !s110 1560201153
+Z37 !s110 1560201153
 !i10b 1
-Z37 !s108 1560201153.000000
-Z38 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Dokumenty\DSE\DigitalFilter\MemoryA.vhd|
-Z39 !s107 D:\Dokumenty\DSE\DigitalFilter\MemoryA.vhd|
+Z38 !s108 1560201153.000000
+Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Dokumenty\DSE\DigitalFilter\MemoryA.vhd|
+Z40 !s107 D:\Dokumenty\DSE\DigitalFilter\MemoryA.vhd|
 !i113 1
 R12
 R13
@@ -211,11 +210,11 @@ VFJHVTbja5`cLL:c2n>^G12
 !s100 JCM6L4nbiBN;PZZERZkK73
 R7
 32
-R36
-!i10b 1
 R37
+!i10b 1
 R38
 R39
+R40
 !i113 1
 R12
 R13
@@ -233,41 +232,41 @@ VlBRXl::>FO5E?@TSS:JjI0
 !s100 <:<?oJzMdFe:ZfO2EBL::2
 R7
 32
-R29
-!i10b 1
 R30
+!i10b 1
+R31
 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Dokumenty\DSE\DigitalFilter\MemoryB.vhd|
 !s107 D:\Dokumenty\DSE\DigitalFilter\MemoryB.vhd|
 !i113 1
 R12
 R13
 Epart1
-Z40 w1559653092
-R25
+Z41 w1559653092
 R26
+R27
 R1
 R2
 R3
 R4
-Z41 8D:\Dokumenty\DSE\DigitalFilter\FinalCOde.vhd
-Z42 FD:\Dokumenty\DSE\DigitalFilter\FinalCOde.vhd
+Z42 8D:\Dokumenty\DSE\DigitalFilter\FinalCOde.vhd
+Z43 FD:\Dokumenty\DSE\DigitalFilter\FinalCOde.vhd
 l0
 L6
 V4bRCRf7YKDM6[7=bM:@YZ1
 !s100 ?oAg[]8nWK3zV^=[UQ7Wg2
 R7
 32
-R29
-!i10b 1
 R30
-Z43 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Dokumenty\DSE\DigitalFilter\FinalCOde.vhd|
-Z44 !s107 D:\Dokumenty\DSE\DigitalFilter\FinalCOde.vhd|
+!i10b 1
+R31
+Z44 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Dokumenty\DSE\DigitalFilter\FinalCOde.vhd|
+Z45 !s107 D:\Dokumenty\DSE\DigitalFilter\FinalCOde.vhd|
 !i113 1
 R12
 R13
 Abehavior
-R25
 R26
+R27
 R1
 R2
 R3
@@ -280,31 +279,31 @@ R7
 32
 !s110 1560201123
 !i10b 1
-R30
-R43
+R31
 R44
+R45
 !i113 1
 R12
 R13
 Ereg
-Z45 w1560779446
+Z46 w1560779446
 R1
 R2
 R3
 R4
-Z46 8D:\Dokumenty\DSE\DigitalFilter\REG.vhd
-Z47 FD:\Dokumenty\DSE\DigitalFilter\REG.vhd
+Z47 8D:/Dokumenty/DSE/DigitalFilter/REG.vhd
+Z48 FD:/Dokumenty/DSE/DigitalFilter/REG.vhd
 l0
 L5
 VdNCj00z]PJ0cW8b3=z5?@2
 !s100 @BM9eNhVWX0HSQNJ@K2cP3
 R7
 32
-R8
+R17
 !i10b 1
-R9
-Z48 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Dokumenty\DSE\DigitalFilter\REG.vhd|
-Z49 !s107 D:\Dokumenty\DSE\DigitalFilter\REG.vhd|
+R18
+Z49 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Dokumenty/DSE/DigitalFilter/REG.vhd|
+Z50 !s107 D:/Dokumenty/DSE/DigitalFilter/REG.vhd|
 !i113 1
 R12
 R13
@@ -312,40 +311,40 @@ Abehaviour
 R1
 R2
 R3
-Z50 DEx4 work 3 reg 0 22 dNCj00z]PJ0cW8b3=z5?@2
+Z51 DEx4 work 3 reg 0 22 dNCj00z]PJ0cW8b3=z5?@2
 l25
 L16
-Z51 V@8W_3^JMJjRQOi;Fid>C@1
-Z52 !s100 J14eEMbS5Be1aU=kbOScf0
+Z52 V@8W_3^JMJjRQOi;Fid>C@1
+Z53 !s100 J14eEMbS5Be1aU=kbOScf0
 R7
 32
-R8
+R17
 !i10b 1
-R9
-R48
+R18
 R49
+R50
 !i113 1
 R12
 R13
 Eregn
-Z53 w1559667347
+Z54 w1559667347
 R1
 R2
 R3
 R4
-Z54 8D:\Dokumenty\DSE\DigitalFilter\register.vhd
-Z55 FD:\Dokumenty\DSE\DigitalFilter\register.vhd
+Z55 8D:\Dokumenty\DSE\DigitalFilter\register.vhd
+Z56 FD:\Dokumenty\DSE\DigitalFilter\register.vhd
 l0
 L6
 VTkMm@oEnb3?UkV;goF@^G1
 !s100 kjhIn8kJlI4iVW^8FnbhM3
 R7
 32
-Z56 !s110 1559667383
+Z57 !s110 1559667383
 !i10b 1
-Z57 !s108 1559667383.000000
-Z58 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Dokumenty\DSE\DigitalFilter\register.vhd|
-Z59 !s107 D:\Dokumenty\DSE\DigitalFilter\register.vhd|
+Z58 !s108 1559667383.000000
+Z59 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Dokumenty\DSE\DigitalFilter\register.vhd|
+Z60 !s107 D:\Dokumenty\DSE\DigitalFilter\register.vhd|
 !i113 1
 R12
 R13
@@ -360,33 +359,33 @@ VF4d4ebnIS3ANQdGmn[EzW2
 !s100 A6dOXZ?9Ulo1lB6P28iXL2
 R7
 32
-R56
-!i10b 1
 R57
+!i10b 1
 R58
 R59
+R60
 !i113 1
 R12
 R13
 Eshift
-Z60 w1560782570
+Z61 w1560782570
 R1
 R2
 R3
 R4
-Z61 8D:\Dokumenty\DSE\DigitalFilter\shift.vhd
-Z62 FD:\Dokumenty\DSE\DigitalFilter\shift.vhd
+Z62 8D:\Dokumenty\DSE\DigitalFilter\shift.vhd
+Z63 FD:\Dokumenty\DSE\DigitalFilter\shift.vhd
 l0
 L5
 VNBMdV?e;`jUh;08:1;G2M0
 !s100 FCG?>;UdolUYZN07Vo;YY1
 R7
 32
-R8
+R17
 !i10b 1
-R9
-Z63 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Dokumenty\DSE\DigitalFilter\shift.vhd|
-Z64 !s107 D:\Dokumenty\DSE\DigitalFilter\shift.vhd|
+R18
+Z64 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Dokumenty\DSE\DigitalFilter\shift.vhd|
+Z65 !s107 D:\Dokumenty\DSE\DigitalFilter\shift.vhd|
 !i113 1
 R12
 R13
@@ -401,11 +400,11 @@ VhdCgdEEYc0;DQ0OHf53ND3
 !s100 2@US?^0?m5``0e`0Z3K:l2
 R7
 32
-R8
+R17
 !i10b 1
-R9
-R63
+R18
 R64
+R65
 !i113 1
 R12
 R13
